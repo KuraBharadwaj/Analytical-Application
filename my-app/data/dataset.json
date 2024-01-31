@@ -1,0 +1,50 @@
+[
+  {
+    "month": "January",
+    "data": 20
+  },
+  {
+    "month": "February",
+    "data": 25
+  },
+  {
+    "month": "March",
+    "data": 30
+  },
+  {
+    "month": "April",
+    "data": 45
+  },
+  {
+    "month": "May",
+    "data": 55
+  },
+  {
+    "month": "June",
+    "data": 65
+  },
+  {
+    "month": "July",
+    "data": 80
+  },
+  {
+    "month": "September",
+    "data": 70
+  },
+  {
+    "month": "October",
+    "data": 65
+  },
+  {
+    "month": "November",
+    "data": 40
+  },
+  {
+    "month": "December",
+    "data": 35
+  },
+  {
+    "month": "January",
+    "data": 65
+  }
+]
